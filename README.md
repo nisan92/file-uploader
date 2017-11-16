@@ -4,24 +4,20 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* To check how node js work
+* Uploade File using Multer
+* 
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Just get clone this 
+* set upload folder
+* And play
+
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+
 
 ### Who do I talk to? ###
 
